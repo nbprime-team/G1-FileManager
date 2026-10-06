@@ -1,6 +1,7 @@
 upsilon version created by deepseek flash.
 
-# fm.elf -- HP Prime G1 native file manager (G1 SDK rewrite)
+# HP Prime G1 native file manager 
+#### G1 SDK rewrite
 
 A C++ rewrite of the existing GUI file manager (`FileManager.hpappdir/fm.py`, the Python
 app in the workspace) on top of the G1 SDK: Upsilon external app, `arm-none-eabi-gcc`,
