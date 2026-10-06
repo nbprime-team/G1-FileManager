@@ -1,0 +1,20 @@
+# 编译产物
+build/
+obj/
+*.o
+*.a
+*.so
+
+# 二进制文件
+*.elf
+*.bin
+
+# 压缩包与备份
+*.zip
+*.bak
+
+# 编辑器/系统文件
+.vscode/
+.idea/
+*.swp
+.DS_Store

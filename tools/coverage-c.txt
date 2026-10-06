@@ -1,0 +1,22 @@
+# ASCII + Latin + symbols/punctuation only (~2.5k glyphs, ~80 KB): sizes for the
+# firmware's built-in CJK font to fill in Chinese via WriteChar.
+0020-007E
+00A0-024F
+02B0-02FF
+0370-03FF
+0400-04FF
+2000-206F
+2070-209F
+20A0-20CF
+2100-214F
+2150-218F
+2190-21FF
+2200-22FF
+2300-23FF
+2500-257F
+2580-259F
+25A0-25FF
+2600-26FF
+2700-27BF
+3000-303F
+FF00-FFEF
